@@ -36,4 +36,4 @@ If this policy changes, the new version will be posted on this page with a new d
 
 ## Contact
 
-Questions about privacy can be sent through [github.com/rishib42/spotfind/issues](https://github.com/rishib42/spotfind/issues).
+Questions about privacy can be sent rishi.18b@gmail.com
